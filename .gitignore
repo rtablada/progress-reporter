@@ -1,3 +1,4 @@
 *.csv
 *.md
+!README.md
 node_modules
